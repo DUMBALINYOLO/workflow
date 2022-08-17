@@ -1,2 +1,2 @@
-# workflow
+# cytoscape-tests
 Created with CodeSandbox
